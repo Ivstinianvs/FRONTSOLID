@@ -1,0 +1,32 @@
+{
+  "name": "Solid Cursos",
+  "short_name": "Solid Cursos",
+  "lang": "pt-br",
+  "description": "Aplicativo do Solid Cursos.",
+  "categories": ["pessoal", "educação", "aprendizagem"],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "orientation": "portrait",
+  "background_color": "#3740ff",
+  "theme_color": "#2f3030",
+  "icons": [
+    {
+      "src": "/pedravermelha.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pedravermelha.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Início",
+      "description": "Atalho para início do site",
+      "url": "/",
+    }
+  ]
+}
